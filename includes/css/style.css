@@ -1,0 +1,57 @@
+/*
+Plugin Name: TCVN Coin Slider Widget
+Plugin URI: http://VinaThemes.biz
+Description: Display featured posts with amazing transition effects.
+Version: 1.0
+Author: VinaThemes
+Author URI: http://VinaThemes.biz
+Author email: mr_hiennc@yahoo.com
+Demo URI: http://VinaDemo.biz
+Forum URI: http://laptrinhvien-vn.com
+License: GPLv3+
+*/
+
+.coin-slider {
+	overflow: hidden; 
+	zoom: 1; 
+	position: relative; 
+}
+.coin-slider a{ 
+	text-decoration: none; 
+	outline: none; 
+	border: none; 
+}
+.cs-buttons { 
+	font-size: 0px; 
+	padding: 10px; 
+	float: left; 
+}
+.cs-buttons a {
+	margin-left: 5px; 
+	height: 10px; 
+	width: 10px; 
+	float: left; 
+	border: 1px solid #B8C4CF; 
+	color: #B8C4CF; 
+	text-indent: -1000px; 
+}
+.cs-active { 
+	background-color: #B8C4CF; 
+	color: #FFFFFF; 
+}
+.cs-title { 
+	padding: 10px; 
+	background-color: #000000; 
+	color: #FFFFFF; 
+}
+.cs-prev, 
+.cs-next { 
+	background-color: #000000; 
+	color: #FFFFFF; 
+	padding: 0px 10px; 
+}
+div#tcvn-copyright {
+	font-size: 12px;
+    height: 0;
+    overflow: hidden;
+}

@@ -1,0 +1,29 @@
+/*
+# ------------------------------------------------------------------------
+# Style in backend Wordpress Widget
+# ------------------------------------------------------------------------
+# Copyright(C) 2008-2012 www.VinaThemes.biz. All Rights Reserved.
+# @license http://www.gnu.org/licenseses/gpl-3.0.html GNU/GPL
+# Author: VinaThemes.biz
+# Websites: http://VinaThemes.biz
+# Demo: http://VinaDemo.biz
+# Forum:    http://laptrinhvien-vn.com/forum/
+# ------------------------------------------------------------------------
+*/
+
+.tooltip {
+    background-color: #F5F5B5;
+    border: 1px solid #DECA7E;
+    color: #303030;
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 18px;
+    padding: 10px 13px;
+    position: absolute;
+    text-align: center;
+    z-index: 2;
+}
+.tcvn-tooltip {
+	color: #6699CC;
+    cursor: help;
+}
